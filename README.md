@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @master-shifu0
-- 👀 I’m interested in anything related to programming
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Frontend Development projects
 - 📫 How to reach me mastershifu268@gmail.com
